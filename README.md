@@ -132,8 +132,8 @@ docker-compose up --build
 ```bash
 /src
    /Api            → API .NET 8 (ingestion, orchestration)  
-   /AgentEngine    → Code agentif, prompts, handlers décisionnels
-   /VisionService  → OCR + modèle Vision Transformer      
+   /AgentEngine    → Agentive code, prompts, decision handlers
+   /VisionService  → OCR + Vision Transformer model     
    /Dashboard      → UI Blazor 
 /docker         
 	docker-compose.yml
