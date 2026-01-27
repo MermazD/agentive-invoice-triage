@@ -32,7 +32,7 @@ This POC aims to **replace manual document sorting** with an automated chain bas
 
 ### 🏗️ **Architecture**
 
-**Pipeline:** PDF Upload → Vision/OCR Extraction → LLM Agent → Analysis & Decision → → Automated Workflow → Logging → Blazor Dashboard
+**Pipeline:** PDF Upload → Vision/OCR Extraction → LLM Agent → Analysis & Decision → Automated Workflow → Logging → Blazor Dashboard
 
 **Components:**
 
