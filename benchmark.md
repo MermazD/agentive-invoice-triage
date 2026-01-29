@@ -62,9 +62,9 @@ Accuracy on **business-critical fields**:
 - Invoice number
 - Invoice date
 - Supplier
-- Amount HT
+- Exclusive of taxes
 - VAT
-- Amount TTC
+- Amount including tax
 
 
 ### 4.4 Noise / Hallucination Rate (NHR)
@@ -151,3 +151,4 @@ Tesseract remains a viable fallback for:
 - Use OCR confidence and missing-field signals to:
   - trigger human-in-the-loop review
   - guide agent decision paths
+
