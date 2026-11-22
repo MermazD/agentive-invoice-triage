@@ -1,0 +1,15 @@
+{
+  "total_images": 20,
+  "successful_parses": 18,
+  "avg_duration_ms": 563.15,
+  "min_duration_ms": 437,
+  "max_duration_ms": 741,
+  "avg_extraction_score": 97.5,
+  "field_presence_rates": {
+    "invoice_number": 90,
+    "amount_incl_tax": 100,
+    "postal_code": 100,
+    "lines_extracted": 100
+  },
+  "avg_lines_per_image": 3.5
+}
